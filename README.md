@@ -1,30 +1,40 @@
 # Rock Paper Scissors
 
-A console-based Rock Paper Scissors game built as part of **The Odin Project Foundations**.
+This is my Rock Paper Scissors project from The Odin Project.
+
+The first version of this project was played in the console. After learning about the DOM and events, I updated it to have a user interface where the game is played by clicking buttons.
 
 ## Features
 
-- Play against the computer
+- Play by clicking Rock, Paper, or Scissors
 - Random computer choice
-- Tracks player and computer scores
-- Plays 5 rounds
-- Announces the overall winner
+- Running score
+- Winner announced when someone reaches 5 points
+- Game automatically reloads after a few seconds
 
-## Built With
+## What I learned
+
+While building this project I practiced:
+
+- JavaScript functions
+- DOM manipulation
+- Event listeners
+- Creating and removing HTML elements with JavaScript
+- Updating the page dynamically
+- Git branching and merging
+
+## Built with
 
 - HTML
+- CSS
 - JavaScript
 
-## What I Learned
+## Live Demo
 
-- Functions
-- Variables and scope
-- Conditionals (`if`, `else if`, `else`)
-- Loops
-- Random number generation
-- Problem solving with pseudocode
-- Git and GitHub workflow
+https://gayadamohammad-coder.github.io/Rock_Paper_Scissors/
 
 ## Project
 
-This project is part of **The Odin Project Foundations** curriculum.
+This project is part of **The Odin Project** Foundations course.
+
+https://www.theodinproject.com/
