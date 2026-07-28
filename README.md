@@ -26,7 +26,6 @@ While building this project I practiced:
 ## Built with
 
 - HTML
-- CSS
 - JavaScript
 
 ## Live Demo
@@ -37,4 +36,4 @@ https://gayadamohammad-coder.github.io/Rock_Paper_Scissors/
 
 This project is part of **The Odin Project** Foundations course.
 
-https://www.theodinproject.com/
+https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors
